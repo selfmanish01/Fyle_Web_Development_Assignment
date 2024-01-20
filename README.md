@@ -1,7 +1,7 @@
 ## Screenshots
 
 ![Screenshot 1](frontView.jpg)
-![Screenshot 2](projectView.jgp)
+
 
 
 # GitHub User Details Project
